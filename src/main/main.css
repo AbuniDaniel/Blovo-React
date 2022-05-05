@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(221, 216, 216);
+}
+
+.main{
+    text-align: center;
+    position: relative;
+    margin: 250px auto 0 auto;
+    border: 2px rgba(51,160,191,255) solid;
+    border-radius: 20px;
+    width: 70%;
+}
