@@ -1,1 +1,1 @@
-# react_blovo
+# Proiect react Blovo
