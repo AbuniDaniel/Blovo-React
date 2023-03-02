@@ -1,6 +1,6 @@
 # Blovo React (only the presentation of restaurants and products)
 
-Technologies used: HTML, CSS, JavaScript, ReactJS.
+Technologies used: HTML, CSS, React/Typescript.
 
 Database used to handle users: FireBase
 
